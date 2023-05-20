@@ -7,9 +7,7 @@
 
 - 🔭 Eu estou atualmente trabalhando em [Bite by Bite](https://sites.google.com/edu.unifil.br/bitebybite/p%C3%A1gina-inicial)
 
-- 🌱 Eu estou atualmente aprendendo **Portugol**
-
-- 🤝 Eu estou procurando ajuda em **Bite by Bite**
+- 🌱 Eu estou atualmente aprendendo **JAVA**
 
 - 📫 Como me encontrar **dann.borghi@gmail.com**
 
