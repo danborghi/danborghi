@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danborghi" alt="danborghi" /></a> </p>
 
-- 🔭 Eu estou atualmente trabalhando em [Bite by Bite](https://sites.google.com/edu.unifil.br/bitebybite/p%C3%A1gina-inicial)
+- 🔭 Eu estou atualmente procurando uma oportunidade na área
 
-- 🌱 Eu estou atualmente aprendendo **JAVA**
+- 🌱 Eu estou atualmente aprendendo **ANGULAR**
 
 - 📫 Como me encontrar **dann.borghi@gmail.com**
 
