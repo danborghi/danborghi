@@ -11,7 +11,7 @@
 
 - 📫 Como me encontrar **dann.borghi@gmail.com**
 
-- 📄 Sobre minhas experiências Trabalho tem 3 anos com visualização 3D no @Paralelo_Studio
+- 📄 Sobre minhas experiências trabalhei 3 anos com visualização 3D no @Paralelo_Studio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
